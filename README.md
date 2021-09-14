@@ -13,7 +13,7 @@ Supply voltage| 3.3V
 Target temperature | -40°C ÷ 300°C 
 Temperature accuracy |  ±1°C
 
-![ Pixels position MLX90640 ] (https://github.com/TriKnight/thermal_tools/tree/master/images/pixels_position.png)
+![ Pixels position MLX90640 ](./images/pixels_position.png)
 
 ## 1. Install dependences 
 Package running and testing with Python 3.6
@@ -38,6 +38,6 @@ jupyter-notebook
 ```
 ## 3. Results
 ### 3.1 Example plot fake MLX90640 data
-![ Fake data] (https://github.com/TriKnight/thermal_tools/tree/master/images/fake_data.png)
+![ Fake data](./images/fake_data.png)
 ### 3.2 Plot MLX90640 data form CSV file
-![ CSV data] (https://github.com/TriKnight/thermal_tools/tree/master/images/csv_data.png)
+![ CSV data](./images/csv_data.png)
